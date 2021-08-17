@@ -1,3 +1,3 @@
-This is a Jimi Hendrix Tribut Page
+This is a Jimi Hendrix Tribute Page
 
-Enjoy!
+:guitar: Enjoy!
